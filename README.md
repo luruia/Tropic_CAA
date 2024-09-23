@@ -1,4 +1,4 @@
-# The Figures in main artical and Supplymentary Information file can be calculated used the corresponding NCL code.
+# The Figures in main artical and Supplymentary Information file can be calculated and plotted using the corresponding NCL code.
 
 The IPDC ("olr_index.nc") and AA_SAT ("t2m_index.nc") indices were calculated used "cal_olr_index.ncl" and "cal_t2m_index.ncl", respectively.
 The Russian Arctic SST index ("sst_index_polar.nc") was calculated in "fig3.ncl".
